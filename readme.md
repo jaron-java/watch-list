@@ -6,6 +6,7 @@
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Project Status](#project-status)
+* [To Do](#to-do)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
@@ -34,6 +35,16 @@ List the ready features here:
 
 ## Project Status
 En Route
+
+## To Do
+- Create a SpringBoot app that allows user signups
+- Store them in a PostgreSQL Database
+- Find an IMBD api that holds a semi-comprehensive list of movies/tv
+- Allow users to Store media from the IMBD api to their User account
+- Allow users to rate the IMBD media
+- Notify users when new seasons/sequels are coming
+- Serve users recommendations from other ratings from users with similar tastes
+- Create a React/Vue/Whatever frontend
 
 
 ## Acknowledgements
